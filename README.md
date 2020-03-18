@@ -43,7 +43,7 @@ Para este projeto, sua tarefa é criar consultas (queries), usando as técnicas 
 | taxa_captura | A taxa de captura do Pokémon é um número entre 0 e 255, quanto maior, melhor |
 
 
-## Consultas // Nome: Igor Vertello Rafael
+## Consultas // Nome: Igor Rafael Vertello da Cruz
 
 1. Selecione o banco de dados (esquema) `pokédex`.
 
